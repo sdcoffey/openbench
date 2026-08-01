@@ -1,0 +1,6 @@
+# Local-only benchmark samples, request IDs, response headers, and usage data.
+large-three-arm/
+large-three-arm-smoke/
+__pycache__/
+*.log
+*.ndjson

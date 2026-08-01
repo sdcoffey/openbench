@@ -29,6 +29,10 @@ validate|doctor|run|report`). The proposed native automatic-routing benchmark is
 specified separately in [`docs/router-bench.md`](docs/router-bench.md); it is a
 design draft, not an implemented runner.
 
+For a resumable, region-aware Luna comparison across personal direct, internal
+direct, and OpenRouter shared-provider accounts, see
+[`experiments/luna-region-probe/README.md`](experiments/luna-region-probe/README.md).
+
 **Live results:** https://openbench.run/ — the landing
 page is the leaderboard itself, with a tab each for Harness Bench and Gateway
 Bench (built by `obench site build`; see [`docs/site.md`](docs/site.md)).
